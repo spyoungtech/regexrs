@@ -27,3 +27,6 @@ classifiers = [
     'Operating System :: MacOS',
 ]
 readme = "README.md"
+
+[project.urls]
+Homepage = 'https://github.com/spyoungtech/regexrs'
